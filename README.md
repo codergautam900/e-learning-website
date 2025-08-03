@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Hi 👋, I'm Gaurav Gautam</h1>
 <h3 align="center">A passionate Software Engneer from India</h3>
 
@@ -22,3 +23,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravgautav123&show_icons=true&locale=en" alt="gauravgautav123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravgautav123&" alt="gauravgautav123" /></p>
+=======
+# e-learning-website
+An education-themed website UI built with HTML/CSS/JS. Great for showcasing school or course-related content.
+<br>
+Author - Gautam Sagar
+>>>>>>> eebcecdddb4d6c32c2e1804ecb715037c8c4738a
