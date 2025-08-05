@@ -13,7 +13,7 @@ This project is crafted for students, educators, and developers who believe in p
 
 ## 🖼 Screenshots
 
-![Home Page](https://your-screenshot-link.com)  
+![Home Page](demo.png)  
 (Add screenshots of homepage, features section, etc.)
 
 ---
